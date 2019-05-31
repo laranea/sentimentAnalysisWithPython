@@ -8,7 +8,7 @@
 
 **"Taller en Data Science" by UCOM (http://www.ucom.edu.py/eventos/taller-de-data-science/)**
 
-## Steps
+### Steps
 1. Download, fork or clone repository.
 2. Execute .py files
 
