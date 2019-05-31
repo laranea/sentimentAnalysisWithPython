@@ -12,12 +12,12 @@ print(format_sentence("The data science is very sexy"))
 
 # step 2
 pos = []
-with open("../dataset/pos_tweets.txt") as f:
+with open("../pos_tweets.txt") as f:
     for i in f: 
         pos.append([format_sentence(i), 'pos'])
 
 neg = []
-with open("../dataset/neg_tweets.txt") as f:
+with open("../neg_tweets.txt") as f:
     for i in f: 
         neg.append([format_sentence(i), 'neg'])
 
