@@ -12,4 +12,4 @@
 1. Download, fork or clone repository.
 2. Execute .py files
 
-*You need Python 3 and internet conexion for download NLTK corpus.*
+*You need Python 3 and internet connection for download NLTK corpus.*
